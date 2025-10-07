@@ -2,7 +2,6 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js";
 import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-auth.js";
 
-// 🔥 Your Firebase Config (replace this)
 const firebaseConfig = {
   apiKey: "YOUR_KEY_HERE",
   authDomain: "YOUR_APP.firebaseapp.com",
