@@ -22,11 +22,7 @@ Database: Firebase Realtime Database / Firestore
 
 Setup Instructions
 
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
+Clone the repository
 
 Create a Firebase Project:
 
